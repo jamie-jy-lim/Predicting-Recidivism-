@@ -6,7 +6,7 @@ Name: Jamie Lim, Thomas Tam, Tina Feng
 
 This repository contains:	
 - The original dataset: NIJ_s_Recidivism_Challenge_Full_Dataset.csv 	
-- The cleaned dataset:  NIJ_s_Recidivism_Challenge_Cleaned_Dataset.csv 
+- The cleaned dataset:  df_cleaned.csv
 - 4 jupyter notebook files 
 	- part1_intro+data_cleaning.ipynb
 	- part2_question1.ipynb
