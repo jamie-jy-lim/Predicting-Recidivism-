@@ -1,8 +1,3 @@
-# Predicting-Recidivism-
-Fall 2021 Data Mining Group Project on Predicting Recidivism
-
-
-
 95-791 Data Mining (Fall 2021) - Final Project - README
 Name: Jamie Lim, Thomas Tam, Tina Feng
 
