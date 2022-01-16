@@ -14,7 +14,6 @@ This repository contains
 
 
 
-Instruction for jupyter notebooks implementation
 
 Run the jupyter notebooks in orders as follows:
 	
