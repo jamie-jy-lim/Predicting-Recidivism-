@@ -1,15 +1,14 @@
 95-791 Data Mining (Fall 2021) - Final Project - README
 Name: Jamie Lim, Thomas Tam, Tina Feng
 
-The zip file contains	
-- The original dataset: NIJ_s_Recidivism_Challenge_Full_Dataset.csv (in jupyter notebook folder)	
-- The cleaned dataset:  df_cleaned.csv (in jupyter notebook folder)	
-- 4 jupyter notebook files (in jupyter notebook folder)	
+This repository contains	
+- The original dataset: NIJ_s_Recidivism_Challenge_Full_Dataset.csv 	
+- The cleaned dataset:  NIJ_s_Recidivism_Challenge_Cleaned_Dataset.csv 
+- 4 jupyter notebook files 
 	- part1_intro+data_cleaning.ipynb
 	- part2_question1.ipynb
 	- part3_question2.ipynb
 	- Part4_question3+summary.ipynb
-- 4 html files of jupyter notebook slides (in slides folder)	
 - codebook
 
 
