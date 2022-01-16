@@ -12,8 +12,9 @@ This repository contains
 - codebook
 
 
-<Instruction for jupyter notebooks implementation>
-	
+
+
+Instruction for jupyter notebooks implementation
 Run the jupyter notebooks in orders as follows:
 	
 - part1_intro+data_cleaning.ipynb
