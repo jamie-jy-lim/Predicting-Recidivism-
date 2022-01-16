@@ -13,7 +13,9 @@ This repository contains
 
 
 <Instruction for jupyter notebooks implementation>
+	
 Run the jupyter notebooks in orders as follows:
+	
 - part1_intro+data_cleaning.ipynb
 	- Contains data and problem overview, EDA, and preliminary test
 	- Generates the cleaned dataset: df_cleaned.csv
