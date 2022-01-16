@@ -1,7 +1,10 @@
 95-791 Data Mining (Fall 2021) - Final Project - README
+
+
 Name: Jamie Lim, Thomas Tam, Tina Feng
 
-This repository contains	
+
+This repository contains:	
 - The original dataset: NIJ_s_Recidivism_Challenge_Full_Dataset.csv 	
 - The cleaned dataset:  NIJ_s_Recidivism_Challenge_Cleaned_Dataset.csv 
 - 4 jupyter notebook files 
